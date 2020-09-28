@@ -12,6 +12,6 @@ The design is fairly simple in terms of kerf cutting patterns to show the ease o
   
 ![](https://raw.githubusercontent.com/ebredder/laserBendingNames/master/pics/sketchHolder.PNG)
   
-No project comes with a variety of prototypes!
+No project comes without a variety of prototypes!
   
 ![](https://raw.githubusercontent.com/ebredder/laserBendingNames/master/pics/4.jpg)
