@@ -10,7 +10,7 @@ The main objective of this project is to share some bending techniques with flat
 ![](https://raw.githubusercontent.com/ebredder/laserBendingNames/master/pics/3.jpg)  
 The design is fairly simple in terms of kerf cutting patterns to show the ease of design, but achieve higher form than straight angles. The current design is bent at a 60 degree angle from the surface it sits on. The sketch for the holders shows the process in determining the radius curve based on the circumference of the circle and length of the kerf-bent area.  
   
-![](https://raw.githubusercontent.com/ebredder/laserBendingNames/master/pics/sketchHolder.jpg)
+![](https://raw.githubusercontent.com/ebredder/laserBendingNames/master/pics/sketchHolder.png)
   
 No project comes with a variety of prototypes!
   
